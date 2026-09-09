@@ -28,9 +28,6 @@
                     Currently exploring <br>
                     Skilled in C/C++
                 </p>
-                <p>
-                    🔗 Portfolio: <a href="https://astonishing-otter-f3af74.netlify.app/" target="_blank">astonishing-otter-f3af74.netlify.app</a>
-                </p>
             </div>
         </section>
         <section id="skills" class="skills">
@@ -85,6 +82,7 @@
     </main>
     <footer>
         <p>&copy; 2026 Md. Elman Touhid. All rights reserved.</p>
+        <p>Portfolio: <a href="https://astonishing-otter-f3af74.netlify.app/" target="_blank">astonishing-otter-f3af74.netlify.app</a></p>
     </footer>
 </body>
 
