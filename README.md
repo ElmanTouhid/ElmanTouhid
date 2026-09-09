@@ -41,8 +41,8 @@ My focus is on mastering the fundamentals while building toward big things — o
 
 
 
-https://astonishing-otter-f3af74.netlify.app/
+https://mini-project-1-steel.vercel.app/
 
 
 
-i want to add it here?
+
