@@ -1,89 +1,48 @@
-<!DOCTYPE html>
-<html lang="en">
+<h1 align="left">👋 About Me:</h1>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MD. Elman Touhid-Personal Profile</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+Hi, I'm **Md. Elman Touhid** —
+a Computer Science & Engineering undergrad at IIUC, passionate about problem-solving.
+I work with **C, C++**, building AI-assisted web apps, and exploring other CS fields.
+My focus is on mastering the fundamentals while building toward big things — one project, one problem, one day at a time.
 
-<body>
-    <header class="site-header">
-        <h1>MD. Elman Touhid</h1>
-        <nav aria-label="Primary">
-            <a href="#about">About</a>
-            <a href="#skills">Skills</a>
-            <a href="#projects">Projects</a>
-            <a href="#contact">Contact</a>
-        </nav>
-    </header>
-    <main>
-        <section id="about" class="about">
-            <img src="images/profile.jpg" alt="Photo of Md. Elman Touhid" class="profile-photo">
-            <div>
-                <h2>About Me</h2>
-                <p>
-                    CS Student at International Islamic University Chittagong <br>
-                    Currently exploring <br>
-                    Skilled in C/C++
-                </p>
-            </div>
-        </section>
-        <section id="skills" class="skills">
-            <h2>Skills</h2>
-            <ul>
-                <li>C / C++</li>
-                <li>HTML &amp; CSS</li>
-                <li>JavaScript</li>
-                <li>Git &amp; GitHub</li>
-                <li>Problem Solving</li>
-            </ul>
-        </section>
-        <section id="projects" class="projects"> 
-            <h2>Projects</h2>
-            <article class="project">
-                <h3>CircuitPal</h3>
-                <p>CircuitPal is a self-contained embedded device that packs five useful applications into a 128×64 OLED
-                    display,powered by an ESP32.<br> On first boot it launches a captive-portal WiFi setup page so
-                    you can connect to your network without touching any code.<br> Credentials are saved to NVS flash
-                    and reused automatically on every subsequent boot.</p>
-            </article>
+---
 
-            <article class="project">
-                <h3>CGPA-Stats</h3>
-                <p>A robust, console-based management system developed in Pure C.<br> This project was designed for a
-                    First Year University Group Project to demonstrate a deep understanding of structural programming,
-                    file-based persistence, and interactive CLI design.</p>
-            </article>
-            </section>
-            <section id="contact" class="contact">
-                <h2>Contact</h2>
-                <p>Email: <a href="mailto:elmantouhid09@gmail.com">elmantouhid09@gmail.com</a></p>
-                <form>
-                    <div>
-                        <label for="name">Name</label>
-                        <input id="name" name="name" type="text" required>
-                    </div>
-                    <div>
-                        <label for="email">Email</label>
-                        <input id="email" name="email" type="email" required>
-                    </div>
-                    <div>
-                        <label for="message">Message</label>
-                        <textarea id="message" name="message" rows="4" required> </textarea>
-                    </div>
-             
-                <button type="submit">Send</button>
+<h1 align="left">🌐 Socials:</h1>
 
-                </form>
-               
-            </section>
-    </main>
-    <footer>
-        <p>&copy; 2026 Md. Elman Touhid. All rights reserved.</p>
-        <p>Portfolio: <a href="https://astonishing-otter-f3af74.netlify.app/" target="_blank">astonishing-otter-f3af74.netlify.app</a></p>
-    </footer>
-</body>
+<p align="left">
+<a href="https://github.com/ElmanTouhid" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/elman-touhid-7601a3396/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:elmantouhid09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-</html>
+---
+
+<h1 align="left">💻 Tech Stack:</h1>
+
+<p align="left">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+<h3 align="left">🚀 Currently Working On:</h3>
+
+- Learning new skills
+- Trying Git and GitHub
+- Exploring CS fields
+
+<p align="left"><i>"Learning and improving has no limits."</i></p>
+
+
+
+https://astonishing-otter-f3af74.netlify.app/
+
+
+
+i want to add it here?
