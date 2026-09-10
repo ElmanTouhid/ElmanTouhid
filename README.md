@@ -40,7 +40,7 @@ My focus is on mastering the fundamentals while building toward big things — o
 <p align="left"><i>"Learning and improving has no limits."</i></p>
 
 
-
+<p>DO CHECK OUT MY PERSONAL PORTFOLIO ONLINE</p>
 https://mini-project-1-steel.vercel.app/
 
 
