@@ -41,7 +41,7 @@ My focus is on mastering the fundamentals while building toward big things — o
 
 
 <p>DO CHECK OUT MY PERSONAL PORTFOLIO ONLINE</p>
-https://mini-project-1-steel.vercel.app/
+https://personal-portfolio-phi-three-92.vercel.app/
 
 
 
